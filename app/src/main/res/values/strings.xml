@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AliPet</string>
+    <string name="title_home">OPÇOES DE ALIMENTAÇÃO</string>
+    <string name="title_dashboard"> </string>
+    <string name="title_notifications">MANUTENÇÃO</string>
+    <string name="quantas_vezes_ao_dia_o_seu_pet_se_alimenta">Quantas vezes ao dia o seu pet se alimenta?</string>
+    <string name="quantas_vezes_ao_dia_o_seu_pet_se_alimentaa">Quantas vezes ao dia o seu pet se alimenta?</string>
+    <string name="quantos_gramas_de_ra_o_ele_come_por_vez">Quantos gramas de ração ele come por vez?</string>
+    <string name="quantos_gramas_de_ra_o_ele_come_por_vezz">Quantos gramas de ração ele come por vez?</string>
+    <string name="qual_o_hor_rio_da_primeira_refei_o_de_seu_pet">Qual o horário da primeira refeição de seu pet?</string>
+    <string name="qual_o_hor_rio_da_primeira_refei_o_de_seu_pett">Qual o horário da primeira refeição de seu pet?</string>
+    <string name="qual_o_intervalo_entre_as_refei_es_de_seu_pet">Qual o intervalo entre as refeições de seu pet?</string>
+    <string name="qual_o_intervalo_entre_as_refei_es_de_seu_pett">Qual o intervalo entre as refeições de seu pet?</string>
+    <string name="ativar_alimentador">Ativar Alimentador</string>
+    <string name="ativar_alimentadorr">Ativar Alimentador</string>
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+</resources>
